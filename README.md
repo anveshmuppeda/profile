@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a personal static website hosted with GitHub Pages, built to showcase my profile. Site URL / Demo: 
-    <a href="https://anveshmuppeda.github.io/profile">hashirshoaeb.github.io/home</a>
+    <a href="https://anveshmuppeda.github.io/profile">anveshmuppeda.github.io/home</a>
     <br />
     <br />
     <a href="https://anveshmuppeda.github.io">About Me</a>
